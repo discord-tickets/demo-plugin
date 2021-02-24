@@ -1,0 +1,8 @@
+{
+	"cmd": {
+		"demo": {
+			"title": "Hello!",
+			"description": "Hi, I'm \"%s\" from %s"
+		}
+	} 
+}

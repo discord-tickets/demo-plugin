@@ -1,2 +1,25 @@
-# discord-tickets-demo-plugin
+# DiscordTickets Demo Plugin
+
 A demo plugin for DiscordTickets.
+
+## Features
+<!-- describe the features of your plugin here -->
+This plugin doesn't add anything useful, but is an example of how to create a plugin for DiscordTickets.
+
+### Commands
+<!-- list all of the commands added by your plugin here -->
+- `demo`: A useless demo command
+
+## Screenshots
+
+![alt text to display if image is unavailable](https://ik.imagekit.io/eartharoid/projects/discord-tickets/banner-v2-gradient-compressed-darker-with-text-large.png "image title")
+
+## Installation
+
+<!--
+You don't need to publish your plugin to NPM, but if you do, you can uncomment this:
+
+`npm i dsctickets.demo-plugin --no-save`
+-->
+
+`npm i github:eartharoid/discord-tickets-demo-plugin --no-save`
