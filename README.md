@@ -10,8 +10,12 @@ This plugin doesn't add anything useful, but is an example of how to create a pl
 <!-- list all of the commands added by your plugin here -->
 - `demo`: A useless demo command
 
-## Screenshots
+### Supported languages
 
+- English
+
+## Screenshots
+<!-- Include a couple of  -->
 ![alt text to display if image is unavailable](https://ik.imagekit.io/eartharoid/projects/discord-tickets/banner-v2-gradient-compressed-darker-with-text-large.png "image title")
 
 ## Installation
@@ -23,3 +27,9 @@ You don't need to publish your plugin to NPM, but if you do, you can uncomment t
 -->
 
 `npm i github:eartharoid/discord-tickets-demo-plugin --no-save`
+
+## Support
+
+<!--
+Please include some instructions for how to get support. 
+-->
