@@ -18,6 +18,10 @@
   "homepage": "https://github.com/eartharoid/discord-tickets-demo-plugin#readme",
   "dependencies": {
     "@eartharoid/i18n": "^0.0.1",
+    "discord.js": "^12.5.1",
     "fs-extra": "^9.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
   }
 }
