@@ -1,6 +1,6 @@
-# DiscordTickets Demo Plugin
+# Discord Tickets Demo Plugin
 
-A demo plugin for DiscordTickets.
+A demo plugin for Discord Tickets.
 
 ## Supported versions
 
@@ -12,7 +12,7 @@ It may not work on versions not listed above.
 
 ## Features
 <!-- describe the features of your plugin here -->
-This plugin doesn't add anything useful, but is an example of how to create a plugin for DiscordTickets.
+This plugin doesn't add anything useful, but is an example of how to create a plugin for Discord Tickets.
 
 ### Commands
 <!-- list all of the commands added by your plugin here -->

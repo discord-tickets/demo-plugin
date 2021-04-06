@@ -5,7 +5,7 @@ module.exports = (Command, OptionTypes) => {
 		constructor(client) {
 			super(client, {
 				name: 'demo',
-				description: 'A demo plugin demo command for DiscordTickets',
+				description: 'A demo plugin demo command for Discord Tickets',
 				options: []
 			});
 		}

@@ -1,7 +1,7 @@
 {
   "name": "dsctickets.demo-plugin",
   "version": "1.0.0",
-  "description": "A demo plugin for DiscordTickets",
+  "description": "A demo plugin for Discord Tickets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
